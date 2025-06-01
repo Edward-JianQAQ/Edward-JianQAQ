@@ -9,4 +9,5 @@ I work on **Data Management, Graph Learning, Multimodality interpretation and ge
 📧 Email: [edwardjianqaq@gmail.com](mailto:edwardjianqaq@gmail.com)
 
 
-<img align="left" src="https://github-readme-stats-one-bice.vercel.app/api?username=Edward-JianQAQ&show_icons=true&include_all_commits=true&role=OWNER,COLLABORATOR">
+<img align="left" src="https://github-readme-stats-one-bice.vercel.app/api?username=edward-jianqaq&show_icons=true&include_all_commits=true&role=OWNER,COLLABORATOR">
+
