@@ -2,7 +2,7 @@
 
 I'm a PhD student at [DSG Lab](https://uwaterloo.ca/data-systems-group/), University of Waterloo, advised by Prof. [M. Tamer Özsu](https://cs.uwaterloo.ca/~tozsu/)
 
-I work on **Data Management, Graph Learning, Multimodality interpretation and generation, and Agents**.
+I work on **Data Management, Graph Learning, Multimodal interpretation and generation, and Agents**.
 
 🌐 Homepage: [edward-jian](https://edward-jianqaq.github.io/)
 
